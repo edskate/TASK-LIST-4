@@ -1,0 +1,15 @@
+body{
+    width: 50%;
+    height: 50%;
+    margin: 13%;
+    border: 1px solid;
+    padding: 5%;
+}
+main{
+    box-shadow: 3px 4px 5px ;
+
+   }
+li{
+box-shadow:inset 2px 3px 4px ;
+
+}
